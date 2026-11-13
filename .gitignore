@@ -1,0 +1,6 @@
+__pycache__/
+resultats/
+*.mat
+*.tdms
+*.tdms_index
+arduino_methode*.csv
